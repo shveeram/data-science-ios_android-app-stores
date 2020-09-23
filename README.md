@@ -1,4 +1,4 @@
-# data-science-ios_android-app-stores
+# About
   Data analysis project on the iOS, Android app store
 # Version:
   1. Jupyter notebook version: 6.0.3
